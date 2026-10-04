@@ -1,0 +1,13 @@
+# Dependências
+node_modules/
+
+# Banco de dados SQLite
+ponto.db*
+
+# Build e cache do Angular
+frontend/dist/
+frontend/.angular/
+
+# Variáveis de ambiente e logs
+.env
+*.log
